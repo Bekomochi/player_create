@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{8F60F593-E10B-4404-82D3-FAAD70443738}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppGE2", "ConsoleAppGE2.csproj", "{8F60F593-E10B-4404-82D3-FAAD70443738}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{5A84166E-5D3D-4788-BAAB-55F646D2C220}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
